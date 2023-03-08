@@ -1,1 +1,2 @@
-anything
+ #!/bin/bash
+ anything
